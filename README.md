@@ -1,5 +1,5 @@
 # Portfolio
-https://github.com/yuta6686/Portfolio/blob/main/images/1FRONT-COVER.png?raw=true
+![1FRONT-COVER](https://github.com/yuta6686/Portfolio/blob/main/images/1FRONT-COVER.png?raw=true)
 ![1FRONT-COVER](images/1FRONT-COVER.png)
 ![2CONTENTS](images/2CONTENTS.png)
 ![3PROFILE1](images/3PROFILE1.png)
