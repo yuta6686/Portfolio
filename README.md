@@ -1,12 +1,10 @@
 # Portfolio
-
-
-![1FRONT COVER](images/1FRONT COVER.png)
-![2CONTENTS](images/2CONTENTS.png)
-![3PROFILE1](https://user-images.githubusercontent.com/68798323/209049402-574b2f81-b5fe-4824-8715-723a602319ba.png)
-![4PROFILE2](https://user-images.githubusercontent.com/68798323/209049403-ce8d96ff-3a74-4f8e-964a-7fbe5179177b.png)
-![5Air Shooting1](https://user-images.githubusercontent.com/68798323/209049406-803e1cfa-154d-47c9-b017-4bb0cc0cf01b.png)
-![6Air Shooting2](https://user-images.githubusercontent.com/68798323/209049407-0002ea4b-b30a-48e8-b91f-aaeaac96cf33.png)
-![7Hop Slime1](https://user-images.githubusercontent.com/68798323/209049410-f2fc6a16-a0aa-4e41-9011-76aa3ef16a2c.png)
-![8Hop Slime2](https://user-images.githubusercontent.com/68798323/209049412-b337ab23-1041-476d-8941-34812ab32107.png)
-![9Other](https://user-images.githubusercontent.com/68798323/209049394-bad58848-becd-4a27-bbf9-f52b66fe2a1f.png)
+![1FRONT-COVER](images/1FRONT-COVER.png)
+![2CONTENTS](https://user-images.githubusercontent.com/68798323/209049743-3dfcf3fc-ddc3-4dcb-ab46-85c1ef287c9f.png)
+![3PROFILE1](https://user-images.githubusercontent.com/68798323/209049745-c6d340db-5c01-4977-8e86-23bd957a3312.png)
+![4PROFILE2](https://user-images.githubusercontent.com/68798323/209049747-836c326f-6d85-4e48-bc33-a16aad3c1a1f.png)
+![5Air-Shooting1](https://user-images.githubusercontent.com/68798323/209049748-5f1e60ce-aa28-4468-8019-6cb22a0becfb.png)
+![6Air-Shooting2](https://user-images.githubusercontent.com/68798323/209049750-198ebb98-8e3b-404d-8220-58b98b216c63.png)
+![7Hop-Slime1](https://user-images.githubusercontent.com/68798323/209049752-436edc26-eeb1-4aa3-ada1-b63c35d9ad2e.png)
+![8Hop-Slime2](https://user-images.githubusercontent.com/68798323/209049754-70ca44cf-96c1-496a-8ceb-03337e0b6272.png)
+![9Other](https://user-images.githubusercontent.com/68798323/209049755-018b9c59-d289-4a28-a29e-6481c53ef147.png)
