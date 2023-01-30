@@ -1,6 +1,6 @@
 # Portfolio
 
-![This Repository URL](https://github.com/yuta6686/Portfolio/blob/main/README.md)
+[This Repository URL](https://github.com/yuta6686/Portfolio/blob/main/README.md)
 
 ![1-FRONT-COVER](images/1-FRONT-COVER.png)
 ![2-CONTENTS](images/2-CONTENTS.png)
